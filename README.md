@@ -1,5 +1,5 @@
 # Task-Trek
-It is a user-friendly to-do application helps in managing day to day tasks
+It is a user-friendly to-do application helps in managing day to day task
 
 ![image](https://github.com/hrithika7499/Task-Trek/assets/110494774/65daa232-8f3d-4b8a-a0a7-ac4a3e3a3306)
 
